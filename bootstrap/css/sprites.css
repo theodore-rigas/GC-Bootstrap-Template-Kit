@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.social {
+    display: inline-block;
+    width: 34px; 
+    height: 33px;
+}
+.youtube {
+	background: url('images/icons.png') no-repeat -368px -1px;
+	
+}
+.facebook {
+	background: url('images/icons.png') no-repeat -432px 0;
+	width: 17px;
+	height: 33px;
+}
+.twitter {
+	background: url('images/icons.png') no-repeat -123px -71px;
+	width: 33px;
+	height: 28px;
+}
+.mail {
+	background: url('images/icons.png') no-repeat -61px -139px;
+	width: 34px;
+	height: 28px;
+}
